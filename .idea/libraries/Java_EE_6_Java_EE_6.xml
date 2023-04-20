@@ -10,8 +10,8 @@
       <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/javax.mail.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.mail.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

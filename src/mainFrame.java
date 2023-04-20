@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class mainFrame extends JFrame {
-    File users = new File("C:/Users/jademon/Desktop/login.txt");
+    File users = new File("C:/Users/jademon/Documents/academy/java/PJT_Login/login.txt");
     ArrayList<User> user_list = new ArrayList<User>();
     Font font = new Font("맑은 고딕", Font.PLAIN, 20);
     Map<TextAttribute, Object> attributes = new HashMap<>(font.getAttributes());
